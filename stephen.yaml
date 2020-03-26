@@ -1,0 +1,24 @@
+stephen:
+  full_name: Stephen Jones
+  age: 32
+  height: 182cm
+  family:
+    siblings: Louise
+    mum: christine
+    dad: stephen
+  city: Glasgow
+  likes:
+    - cisco
+    - football
+    - lasagna
+    - music
+    - summer
+    - steak
+    - weekends
+  dislikes:
+    - winter
+    - mushrooms
+    - onions
+    - angry people
+    - rudeness
+
